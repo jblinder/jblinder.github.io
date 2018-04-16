@@ -2,6 +2,7 @@
 layout: post
 Project Benson: MTA Turnstile Analysis
 ---
+![Viz 3]({{ "/images/project01/mta-style.jpg" | absolute_url }})
 
 ## Introduction
 For project 1, we were tasked with helping WomenTechWomenYes (WTWY)-- a new, inclusive tech organization-- increase participation for their upcoming annual gala. WTWY is planning to deploy street teams to get email sign-ups among NYC subway commuters. The goal is to come up with a strategy that will help these street teams maximize sign ups.
