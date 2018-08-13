@@ -3,7 +3,7 @@ layout: post
 Ghost Lots: Can urban infrastructural data help predict imminent development?
 title:  "Ghost Lots: Can urban infrastructural data help predict imminent development?"
 ---
-![Noise](/images/project02/noise.jpg){:height="75%" width="75%" .center-image}
+![Noise](/images/project03/research-2.jpg){:height="75%" width="75%" .center-image}
 
 # Ghost Lots
 ## Introduction
