@@ -9,7 +9,7 @@ name: Justin Blinder
 description: Data Science Deep Dive
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/378800000607271033/052ae046fc166edaf712758fdd802ac1_400x400.jpeg
+avatar: https://pbs.twimg.com/profile_images/995773232467922944/mD_99V2q_400x400.jpg
 
 #
 # Flags below are optional
@@ -26,7 +26,7 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/

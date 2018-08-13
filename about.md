@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Art + Code  
+Artist, Data Scientist, Programmer. 
 [http://projects.justinblinder.com/](http://projects.justinblinder.com/)
