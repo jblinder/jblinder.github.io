@@ -3,7 +3,7 @@ layout: post
 Ghost Lots: Can urban infrastructural data help predict imminent development?
 title:  "Ghost Lots: Can urban infrastructural data help predict imminent development?"
 ---
-![Noise](/images/project03/research-2.jpg){:height="75%" width="75%" .center-image}
+![Noise](/images/project03/research-2.jpeg){:height="75%" width="75%" .center-image}
 
 # Ghost Lots
 ## Introduction
@@ -27,7 +27,7 @@ The main outcome I wanted to predict is whether a lot that’s currently vacant 
 
 ## Modeling
 
-Modeling was tricky because of the state of my data. There were vastly fewer vacant lots that converted since 2013 than those that remained vacant, around 3%. Using smote and adding a weighted class balance for ++++ helped a little, but these steps were not very effective.
+Modeling was tricky because of the state of my data. There were vastly fewer vacant lots that converted since 2013 than those that remained vacant, around 3%. Using smote helped a little, but these steps were not very effective.
 
 The two best performing models were Logistic and Random Forest models, the latter proving best on both precision and recall.
 
@@ -43,6 +43,7 @@ After validating the model, my next step was to run predictions for all of the c
 
 
 ![Noise](/images/project03/prediction-1.jpeg){:height="75%" width="75%" .center-image}
+
 ![Noise](/images/project03/prediction-2.jpeg){:height="75%" width="75%" .center-image}
 
 One area where model results seemed a bit more suspect was Downtown Brooklyn, which has also been massively developed in the past decade. Right around the Barclays Center and Fort Greene Park, there were a significant number of lots that were predicted as not being developed in the next 4 years. We’re interested in trying to find what variables might be playing a role in these particular predictions.
