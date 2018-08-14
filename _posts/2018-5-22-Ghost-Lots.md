@@ -14,7 +14,7 @@ Between 2002 and 2013, the Bloomberg administration rezoned 37% of the New York 
 In the past, vacant lots have been signs of both blight and development potential. Given this recent, dramatic rezoning history, can vacant lots be used as predictors for new development? 
 
 ## Data
-The main dataset I used for this research is the NYC PLUTO dataset, which contains tax lot level data about most properties in all 5 boroughs. Brooklyn was the main focus for the first iteration.
+The main dataset I used for this research is the [NYC PLUTO](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page) dataset, which contains tax lot level data about most properties in all 5 boroughs. Brooklyn was the main focus for the first iteration.
 
 ## Analysis
 One of the first analyses was to see the geographic distribution of vacant lots— here we can see that the majority of the distribution lies in industrial areas like ports, and along the north and northeast neighborhoods.
@@ -33,7 +33,7 @@ The two best performing models were Logistic and Random Forest models, the latte
 
 There is some trade-off between precision and recall. Since it was key to not miss vacant lots that might convert, recall was more important. Additionally, finding false positives would likely be it wouldn’t hurt their efforts.
 
-![Noise](/images/project03/performance-2.jpeg){:height="75%" width="75%" .center-image}
+![Noise](/images/project03/performance-1.jpeg){:height="75%" width="75%" .center-image}
 
 Among the top important features were the number of buildings on a lot, the total value of assessed land, and building area.
 
